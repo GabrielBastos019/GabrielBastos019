@@ -1,5 +1,8 @@
 <h1 align="center">Olá 👋,eu sou Gabriel</h1>
 
+### Sobre mim 
+Desenvolvedor Front-End
+
 #### 👨‍💻 Meu WebSite https://gabrielbastos019.github.io
 
 <h3 align="left">Contatos 🌐</h3>
