@@ -6,10 +6,8 @@ Desenvolvedor Front-End
 #### 👨‍💻 Meu WebSite https://gabrielbastos019.github.io
 ### Tech
 
-<div style="display: flex;  justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbastos019&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Principais linguagens " style="width: 300px; height: 300px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielbastos019&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="gabrielbastos019's Stats" style="width: 300px; height: 300px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielbastos019&theme=blueberry&hide_border=true" alt="gabrielbastos019's Streak" style="width: 300px; height: 300px;" />
+<div style="display: flex;  justify-content: center; align-items: center; gap: 20px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbastos019&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Principais linguagens " style="width: 300px; height: 300px;" /><img src="https://github-readme-stats.vercel.app/api?username=gabrielbastos019&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="gabrielbastos019's Stats" style="width: 300px; height: 300px;" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielbastos019&theme=blueberry&hide_border=true" alt="gabrielbastos019's Streak" style="width: 300px; height: 300px;" />
 </div>
 
 <h3 align="left">Contatos 🌐</h3>
