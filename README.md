@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋,eu sou Gabriel</h1>
+<h1 align="center">Olá 👋,meu nome é Gabriel</h1>
 
 ### Sobre mim 
 Desenvolvedor Front-End
